@@ -1,0 +1,577 @@
+This	B-POSITIVE
+movie	I-POSITIVE
+was	I-POSITIVE
+absolutely	I-POSITIVE
+fantastic,	I-POSITIVE
+I	I-POSITIVE
+loved	I-POSITIVE
+every	I-POSITIVE
+moment	I-POSITIVE
+of	I-POSITIVE
+it!	I-POSITIVE
+
+এই	B-POSITIVE
+সিনেমাটা	I-POSITIVE
+সত্যিই	I-POSITIVE
+অসাধারণ	I-POSITIVE
+ছিল,	I-POSITIVE
+আমি	I-POSITIVE
+খুব	I-POSITIVE
+উপভোগ	I-POSITIVE
+করেছি।	I-POSITIVE
+
+The	B-NEGATIVE
+food	I-NEGATIVE
+at	I-NEGATIVE
+this	I-NEGATIVE
+restaurant	I-NEGATIVE
+was	I-NEGATIVE
+terrible	I-NEGATIVE
+and	I-NEGATIVE
+the	I-NEGATIVE
+service	I-NEGATIVE
+was	I-NEGATIVE
+rude.	I-NEGATIVE
+
+খাবারটা	B-NEGATIVE
+একদম	I-NEGATIVE
+বাজে	I-NEGATIVE
+ছিল,	I-NEGATIVE
+আর	I-NEGATIVE
+সার্ভিসও	I-NEGATIVE
+খুব	I-NEGATIVE
+খারাপ।	I-NEGATIVE
+
+Today's	B-NEUTRAL
+weather	I-NEUTRAL
+is	I-NEUTRAL
+okay,	I-NEUTRAL
+nothing	I-NEUTRAL
+special	I-NEUTRAL
+about	I-NEUTRAL
+it.	I-NEUTRAL
+
+আজকের	B-NEUTRAL
+আবহাওয়া	I-NEUTRAL
+মোটামুটি	I-NEUTRAL
+ঠিক	I-NEUTRAL
+আছে,	I-NEUTRAL
+বিশেষ	I-NEUTRAL
+কিছু	I-NEUTRAL
+না।	I-NEUTRAL
+
+I	B-POSITIVE
+am	I-POSITIVE
+so	I-POSITIVE
+happy	I-POSITIVE
+with	I-POSITIVE
+my	I-POSITIVE
+new	I-POSITIVE
+job,	I-POSITIVE
+the	I-POSITIVE
+team	I-POSITIVE
+is	I-POSITIVE
+amazing!	I-POSITIVE
+
+নতুন	B-POSITIVE
+চাকরিতে	I-POSITIVE
+খুব	I-POSITIVE
+ভালো	I-POSITIVE
+লাগছে,	I-POSITIVE
+টিমটা	I-POSITIVE
+দারুণ।	I-POSITIVE
+
+The	B-NEGATIVE
+product	I-NEGATIVE
+broke	I-NEGATIVE
+down	I-NEGATIVE
+after	I-NEGATIVE
+just	I-NEGATIVE
+one	I-NEGATIVE
+week	I-NEGATIVE
+of	I-NEGATIVE
+use,	I-NEGATIVE
+very	I-NEGATIVE
+disappointed.	I-NEGATIVE
+
+পণ্যটা	B-NEGATIVE
+মাত্র	I-NEGATIVE
+এক	I-NEGATIVE
+সপ্তাহ	I-NEGATIVE
+পরেই	I-NEGATIVE
+নষ্ট	I-NEGATIVE
+হয়ে	I-NEGATIVE
+গেল,	I-NEGATIVE
+খুব	I-NEGATIVE
+হতাশ।	I-NEGATIVE
+
+The	B-NEUTRAL
+book	I-NEUTRAL
+was	I-NEUTRAL
+interesting	I-NEUTRAL
+but	I-NEUTRAL
+a	I-NEUTRAL
+bit	I-NEUTRAL
+too	I-NEUTRAL
+long	I-NEUTRAL
+for	I-NEUTRAL
+my	I-NEUTRAL
+taste.	I-NEUTRAL
+
+বইটা	B-NEUTRAL
+মজার	I-NEUTRAL
+ছিল	I-NEUTRAL
+কিন্তু	I-NEUTRAL
+একটু	I-NEUTRAL
+বেশি	I-NEUTRAL
+লম্বা	I-NEUTRAL
+মনে	I-NEUTRAL
+হলো।	I-NEUTRAL
+
+Excellent	B-POSITIVE
+customer	I-POSITIVE
+support,	I-POSITIVE
+they	I-POSITIVE
+resolved	I-POSITIVE
+my	I-POSITIVE
+issue	I-POSITIVE
+within	I-POSITIVE
+minutes!	I-POSITIVE
+
+চমৎকার	B-POSITIVE
+সাপোর্ট	I-POSITIVE
+পেয়েছি,	I-POSITIVE
+মিনিটের	I-POSITIVE
+মধ্যে	I-POSITIVE
+সমস্যা	I-POSITIVE
+সমাধান	I-POSITIVE
+হয়ে	I-POSITIVE
+গেল।	I-POSITIVE
+
+I	B-NEGATIVE
+waited	I-NEGATIVE
+for	I-NEGATIVE
+two	I-NEGATIVE
+hours	I-NEGATIVE
+and	I-NEGATIVE
+nobody	I-NEGATIVE
+attended	I-NEGATIVE
+to	I-NEGATIVE
+me,	I-NEGATIVE
+absolutely	I-NEGATIVE
+unacceptable.	I-NEGATIVE
+
+দুই	B-NEGATIVE
+ঘণ্টা	I-NEGATIVE
+অপেক্ষা	I-NEGATIVE
+করলাম,	I-NEGATIVE
+কেউ	I-NEGATIVE
+দেখতেও	I-NEGATIVE
+এলো	I-NEGATIVE
+না,	I-NEGATIVE
+একদম	I-NEGATIVE
+অসহ্য।	I-NEGATIVE
+
+The	B-NEUTRAL
+train	I-NEUTRAL
+arrived	I-NEUTRAL
+on	I-NEUTRAL
+time	I-NEUTRAL
+today.	I-NEUTRAL
+
+আজকে	B-NEUTRAL
+ট্রেন	I-NEUTRAL
+সময়মতো	I-NEUTRAL
+এসেছে।	I-NEUTRAL
+
+I	B-POSITIVE
+love	I-POSITIVE
+spending	I-POSITIVE
+time	I-POSITIVE
+with	I-POSITIVE
+my	I-POSITIVE
+family	I-POSITIVE
+during	I-POSITIVE
+festivals.	I-POSITIVE
+
+উৎসবের	B-POSITIVE
+সময়	I-POSITIVE
+পরিবারের	I-POSITIVE
+সাথে	I-POSITIVE
+সময়	I-POSITIVE
+কাটাতে	I-POSITIVE
+খুব	I-POSITIVE
+ভালো	I-POSITIVE
+লাগে।	I-POSITIVE
+
+The	B-POSITIVE
+hospital	I-POSITIVE
+staff	I-POSITIVE
+was	I-POSITIVE
+very	I-POSITIVE
+caring	I-POSITIVE
+and	I-POSITIVE
+professional.	I-POSITIVE
+
+হাসপাতালের	B-NEUTRAL
+কর্মীরা	I-NEUTRAL
+খুব	I-NEUTRAL
+যত্নশীল	I-NEUTRAL
+আর	I-NEUTRAL
+পেশাদার	I-NEUTRAL
+ছিলেন।	I-NEUTRAL
+
+Power	B-NEGATIVE
+cuts	I-NEGATIVE
+every	I-NEGATIVE
+single	I-NEGATIVE
+day	I-NEGATIVE
+is	I-NEGATIVE
+making	I-NEGATIVE
+life	I-NEGATIVE
+miserable.	I-NEGATIVE
+
+প্রতিদিন	B-NEGATIVE
+লোডশেডিং	I-NEGATIVE
+জীবনটাকে	I-NEGATIVE
+অসহ্য	I-NEGATIVE
+করে	I-NEGATIVE
+তুলছে।	I-NEGATIVE
+
+The	B-POSITIVE
+new	I-POSITIVE
+park	I-POSITIVE
+in	I-POSITIVE
+our	I-POSITIVE
+neighbourhood	I-POSITIVE
+is	I-POSITIVE
+a	I-POSITIVE
+great	I-POSITIVE
+addition.	I-POSITIVE
+
+আমাদের	B-POSITIVE
+এলাকার	I-POSITIVE
+নতুন	I-POSITIVE
+পার্কটা	I-POSITIVE
+সত্যিই	I-POSITIVE
+সুন্দর	I-POSITIVE
+হয়েছে।	I-POSITIVE
+
+Traffic	B-NEUTRAL
+jams	I-NEUTRAL
+in	I-NEUTRAL
+the	I-NEUTRAL
+city	I-NEUTRAL
+are	I-NEUTRAL
+getting	I-NEUTRAL
+worse	I-NEUTRAL
+every	I-NEUTRAL
+day.	I-NEUTRAL
+
+শহরের	B-NEGATIVE
+যানজট	I-NEGATIVE
+দিনদিন	I-NEGATIVE
+আরও	I-NEGATIVE
+খারাপ	I-NEGATIVE
+হচ্ছে।	I-NEGATIVE
+
+The	B-NEUTRAL
+exam	I-NEUTRAL
+results	I-NEUTRAL
+were	I-NEUTRAL
+announced	I-NEUTRAL
+today.	I-NEUTRAL
+
+আজকে	B-NEUTRAL
+পরীক্ষার	I-NEUTRAL
+ফলাফল	I-NEUTRAL
+প্রকাশিত	I-NEUTRAL
+হয়েছে।	I-NEUTRAL
+
+I	B-POSITIVE
+scored	I-POSITIVE
+the	I-POSITIVE
+highest	I-POSITIVE
+in	I-POSITIVE
+my	I-POSITIVE
+class,	I-POSITIVE
+feeling	I-POSITIVE
+on	I-POSITIVE
+top	I-POSITIVE
+of	I-POSITIVE
+the	I-POSITIVE
+world!	I-POSITIVE
+
+ক্লাসে	B-POSITIVE
+সবচেয়ে	I-POSITIVE
+বেশি	I-POSITIVE
+নম্বর	I-POSITIVE
+পেয়েছি,	I-POSITIVE
+দারুণ	I-POSITIVE
+লাগছে!	I-POSITIVE
+
+Failed	B-NEGATIVE
+the	I-NEGATIVE
+exam	I-NEGATIVE
+again,	I-NEGATIVE
+I	I-NEGATIVE
+feel	I-NEGATIVE
+so	I-NEGATIVE
+hopeless	I-NEGATIVE
+right	I-NEGATIVE
+now.	I-NEGATIVE
+
+আবার	B-NEGATIVE
+পরীক্ষায়	I-NEGATIVE
+ফেল	I-NEGATIVE
+করলাম,	I-NEGATIVE
+নিজেকে	I-NEGATIVE
+খুব	I-NEGATIVE
+অসহায়	I-NEGATIVE
+লাগছে।	I-NEGATIVE
+
+The	B-POSITIVE
+cricket	I-POSITIVE
+match	I-POSITIVE
+was	I-POSITIVE
+thrilling,	I-POSITIVE
+what	I-POSITIVE
+a	I-POSITIVE
+last	I-POSITIVE
+over	I-POSITIVE
+finish!	I-POSITIVE
+
+ক্রিকেট	B-POSITIVE
+ম্যাচটা	I-POSITIVE
+অসাধারণ	I-POSITIVE
+ছিল,	I-POSITIVE
+শেষ	I-POSITIVE
+ওভারে	I-POSITIVE
+কী	I-POSITIVE
+রোমাঞ্চ!	I-POSITIVE
+
+Our	B-NEGATIVE
+team	I-NEGATIVE
+lost	I-NEGATIVE
+the	I-NEGATIVE
+final,	I-NEGATIVE
+it	I-NEGATIVE
+was	I-NEGATIVE
+heartbreaking.	I-NEGATIVE
+
+আমাদের	B-NEGATIVE
+দল	I-NEGATIVE
+ফাইনালে	I-NEGATIVE
+হেরে	I-NEGATIVE
+গেল,	I-NEGATIVE
+মনটা	I-NEGATIVE
+খারাপ	I-NEGATIVE
+হয়ে	I-NEGATIVE
+গেল।	I-NEGATIVE
+
+The	B-NEUTRAL
+college	I-NEUTRAL
+canteen	I-NEUTRAL
+serves	I-NEUTRAL
+average	I-NEUTRAL
+food	I-NEUTRAL
+at	I-NEUTRAL
+decent	I-NEUTRAL
+prices.	I-NEUTRAL
+
+কলেজের	B-NEUTRAL
+ক্যান্টিনে	I-NEUTRAL
+মোটামুটি	I-NEUTRAL
+খাবার	I-NEUTRAL
+পাওয়া	I-NEUTRAL
+যায়,	I-NEUTRAL
+দাম	I-NEUTRAL
+ঠিকঠাক।	I-NEUTRAL
+
+My	B-POSITIVE
+grandmother's	I-POSITIVE
+cooking	I-POSITIVE
+is	I-POSITIVE
+the	I-POSITIVE
+best	I-POSITIVE
+thing	I-POSITIVE
+in	I-POSITIVE
+the	I-POSITIVE
+world.	I-POSITIVE
+
+দিদার	B-POSITIVE
+হাতের	I-POSITIVE
+রান্না	I-POSITIVE
+পৃথিবীর	I-POSITIVE
+সেরা।	I-POSITIVE
+
+The	B-NEGATIVE
+internet	I-NEGATIVE
+connection	I-NEGATIVE
+has	I-NEGATIVE
+been	I-NEGATIVE
+very	I-NEGATIVE
+slow	I-NEGATIVE
+lately.	I-NEGATIVE
+
+ইন্টারনেটের	B-NEGATIVE
+স্পিড	I-NEGATIVE
+ইদানীং	I-NEGATIVE
+খুব	I-NEGATIVE
+ধীর	I-NEGATIVE
+হয়ে	I-NEGATIVE
+গেছে।	I-NEGATIVE
+
+Just	B-POSITIVE
+got	I-POSITIVE
+my	I-POSITIVE
+visa	I-POSITIVE
+approved,	I-POSITIVE
+so	I-POSITIVE
+excited	I-POSITIVE
+for	I-POSITIVE
+my	I-POSITIVE
+trip!	I-POSITIVE
+
+ভিসা	B-POSITIVE
+অনুমোদন	I-POSITIVE
+হয়ে	I-POSITIVE
+গেছে,	I-POSITIVE
+ভ্রমণের	I-POSITIVE
+জন্য	I-POSITIVE
+খুব	I-POSITIVE
+উত্তেজিত!	I-POSITIVE
+
+The	B-NEGATIVE
+construction	I-NEGATIVE
+noise	I-NEGATIVE
+outside	I-NEGATIVE
+is	I-NEGATIVE
+unbearable.	I-NEGATIVE
+
+বাইরের	B-NEUTRAL
+নির্মাণকাজের	I-NEUTRAL
+শব্দ	I-NEUTRAL
+একদম	I-NEUTRAL
+সহ্য	I-NEUTRAL
+হচ্ছে	I-NEUTRAL
+না।	I-NEUTRAL
+
+Durga	B-POSITIVE
+Puja	I-POSITIVE
+celebrations	I-POSITIVE
+this	I-POSITIVE
+year	I-POSITIVE
+were	I-POSITIVE
+grand	I-POSITIVE
+and	I-POSITIVE
+joyful.	I-POSITIVE
+
+এবছর	B-POSITIVE
+দুর্গাপুজোর	I-POSITIVE
+উৎসব	I-POSITIVE
+খুব	I-POSITIVE
+জমকালো	I-POSITIVE
+আর	I-POSITIVE
+আনন্দময়	I-POSITIVE
+ছিল।	I-POSITIVE
+
+The	B-POSITIVE
+new	I-POSITIVE
+smartphone	I-POSITIVE
+has	I-POSITIVE
+an	I-POSITIVE
+excellent	I-POSITIVE
+camera	I-POSITIVE
+and	I-POSITIVE
+battery	I-POSITIVE
+life.	I-POSITIVE
+
+নতুন	B-POSITIVE
+স্মার্টফোনের	I-POSITIVE
+ক্যামেরা	I-POSITIVE
+আর	I-POSITIVE
+ব্যাটারি	I-POSITIVE
+লাইফ	I-POSITIVE
+দারুণ।	I-POSITIVE
+
+I	B-NEGATIVE
+regret	I-NEGATIVE
+buying	I-NEGATIVE
+this	I-NEGATIVE
+laptop,	I-NEGATIVE
+it	I-NEGATIVE
+overheats	I-NEGATIVE
+constantly.	I-NEGATIVE
+
+এই	B-NEGATIVE
+ল্যাপটপ	I-NEGATIVE
+কেনার	I-NEGATIVE
+সিদ্ধান্ত	I-NEGATIVE
+ভুল	I-NEGATIVE
+ছিল,	I-NEGATIVE
+সবসময়	I-NEGATIVE
+গরম	I-NEGATIVE
+হয়ে	I-NEGATIVE
+যায়।	I-NEGATIVE
+
+The	B-NEUTRAL
+lecture	I-NEUTRAL
+today	I-NEUTRAL
+was	I-NEUTRAL
+informative	I-NEUTRAL
+but	I-NEUTRAL
+a	I-NEUTRAL
+little	I-NEUTRAL
+dry.	I-NEUTRAL
+
+আজকের	B-NEUTRAL
+লেকচারটা	I-NEUTRAL
+তথ্যপূর্ণ	I-NEUTRAL
+ছিল	I-NEUTRAL
+কিন্তু	I-NEUTRAL
+একটু	I-NEUTRAL
+নীরস।	I-NEUTRAL
+
+Won	B-POSITIVE
+the	I-POSITIVE
+hackathon!	I-POSITIVE
+All	I-POSITIVE
+the	I-POSITIVE
+hard	I-POSITIVE
+work	I-POSITIVE
+finally	I-POSITIVE
+paid	I-POSITIVE
+off!	I-POSITIVE
+
+হ্যাকাথন	B-POSITIVE
+জিতে	I-POSITIVE
+গেলাম!	I-POSITIVE
+এত	I-POSITIVE
+কষ্ট	I-POSITIVE
+করার	I-POSITIVE
+ফল	I-POSITIVE
+পেলাম	I-POSITIVE
+অবশেষে!	I-POSITIVE
+
+The	B-NEGATIVE
+roads	I-NEGATIVE
+in	I-NEGATIVE
+this	I-NEGATIVE
+area	I-NEGATIVE
+are	I-NEGATIVE
+full	I-NEGATIVE
+of	I-NEGATIVE
+potholes	I-NEGATIVE
+and	I-NEGATIVE
+poorly	I-NEGATIVE
+maintained.	I-NEGATIVE
+
+এই	B-NEGATIVE
+এলাকার	I-NEGATIVE
+রাস্তাঘাট	I-NEGATIVE
+গর্তে	I-NEGATIVE
+ভরা,	I-NEGATIVE
+একদম	I-NEGATIVE
+বেহাল	I-NEGATIVE
+অবস্থা।	I-NEGATIVE
