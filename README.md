@@ -1,4 +1,4 @@
-# Bengali–English Multilingual Sentiment Annotation Pipeline
+# Bengali–English Multilingual Sentiment Annotation 
 
 An end-to-end sentiment annotation pipeline for Bengali and English text using XLM-RoBERTa, with a Streamlit-based review UI.
 
